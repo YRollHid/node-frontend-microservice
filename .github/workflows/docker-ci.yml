@@ -11,8 +11,8 @@ permissions:
   id-token: write
 
 env:
-  DOCKER_HUB_USERNAME: nitheesh86
-  DOCKER_HUB_REPOSITORY: microservice-frontend
+  DOCKER_HUB_USERNAME: yrollhid
+  DOCKER_HUB_REPOSITORY: node-frontend-microservice
 
 jobs:
   build-and-push:
